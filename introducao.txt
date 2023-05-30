@@ -1,0 +1,1 @@
+Git é um versionador de códigos, onde permite ter diversas versões do códgio, de maneira organizada, simples e fácil.

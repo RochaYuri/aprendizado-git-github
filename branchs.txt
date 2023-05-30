@@ -1,0 +1,1 @@
+São ramos do código, onde permite que você realize a alteração do código, sem alterar o código original e principal, assim permitindo diversas mudanças e grandes equipes

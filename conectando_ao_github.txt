@@ -1,0 +1,1 @@
+Para adicionar ao github, é preciso criar o repositório online no site do github, configurá-lo como origem remota do repositório local, e realizar os envios (push) para essa origem remota.

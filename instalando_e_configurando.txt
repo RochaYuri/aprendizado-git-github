@@ -1,0 +1,1 @@
+Para instalar basta apenas rodar o prompt disponibilizado no próprio site do Git, e a configuração essencial é de seu nome e e-mail, para identificação dos commits
